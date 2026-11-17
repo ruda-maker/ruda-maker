@@ -1,12 +1,12 @@
-## Hi, I'm Anna Zaiets 👋
+Hi, I'm Anna Zaiets 👋
 
-Aspiring QA Engineer | API Testing | Java | Selenium
+Aspiring QA Engineer | Manual Testing | API Testing | Java
 
 Welcome to my GitHub profile!
 
-I'm transitioning into Quality Assurance Engineering and building practical skills in software testing, API testing and test automation.
+I'm transitioning into Quality Assurance Engineering and developing practical skills in software testing, API testing and test automation.
 
-I believe in continuous learning, structured problem-solving and understanding how things work.
+My approach is based on continuous learning, structured problem-solving and hands-on practice.
 
 🎯 Current Learning Focus
 
@@ -26,57 +26,63 @@ Test Design Techniques and Bug Reporting
 
 🛠️ Technologies & Tools
 
-Currently learning:
-
-Java
-
-HTML5
-
-CSS3
+Currently practising:
 
 REST API
 
 Swagger
 
-Git / GitHub
+HTTP Methods and Status Codes
 
-Next learning goals:
+Positive and Negative Testing
+
+HTML5 and CSS3
+
+Git and GitHub
+
+Learning next:
+
+Java
 
 Selenium WebDriver
 
 Maven
 
-Postman
-
 SQL
+
+Postman
 
 📂 My Projects
 
-Project
+1. API Testing — Swagger Petstore3
 
-Description
+Practical API testing exercises using Swagger:
 
-Status
+GET requests
 
-QA Portfolio
+Query parameters
 
-Collection of practical QA exercises and projects
+Positive and negative test scenarios
 
-In progress
+HTTP response validation
 
-CV Reconstruction
+2. CV Reconstruction — HTML & CSS
 
-Recreating a CV using HTML and CSS
+A practical front-end project:
 
-Planned
+HTML document structure
 
-API Testing – Petstore3
+CSS styling
 
-API testing and positive/negative test scenarios using Swagger
+Two-column layout
 
-In progress
+Responsive design
 
-🌱 My Approach
+3. QA Portfolio
+
+A collection of practical exercises, test documentation and automation projects.
+
+🌱 My Learning Philosophy
 
 Learn by doing.
 
@@ -84,25 +90,12 @@ Understand the logic behind every test.
 
 Document findings clearly.
 
-Improve through practice and feedback.
+Practise analytical and critical thinking.
 
-📫 Connect
+Improve through continuous feedback.
+
+📫 Connect with me
 
 GitHub: @ruda-maker
 
-This portfolio documents my learning journey and practical development towards a career in Quality Assurance Engineering.
-
-<!--
-**ruda-maker/ruda-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This portfolio represents my ongoing learning journey towards a career in Quality Assurance Engineering.
